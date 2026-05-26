@@ -52,8 +52,6 @@ I am an AI/ML learner and developer focusing on practical deep learning projects
 | **Speech Emotion Classification** | Classifies speech emotion from audio using deep learning models | PyTorch, Librosa, CNN, BiLSTM |
 | **ASR Experiments** | Fine-tuning CTC-based speech recognition models | Wav2Vec2, WavLM, Hugging Face |
 | **Handwritten Text Recognition** | CRNN-style handwriting recognition system | TensorFlow, Keras, CTC |
-| **Time Series Projects** | Time series analysis and forecasting exercises | Python, Pandas, ML |
-| **Dental Marketing Multi-Agent System** | Multi-agent marketing workflow using AI agents | LangChain, LangGraph, OpenAI, Claude |
 
 ---
 
