@@ -66,6 +66,16 @@ I am an AI/ML learner and developer focusing on practical deep learning projects
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/LynkMAD/LynkMAD/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```text
