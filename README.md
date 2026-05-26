@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mai Ánh Dương 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=680&lines=AI+Engineer+Intern;Machine+Learning+%26+Deep+Learning;ASR+%7C+HTR+%7C+Speech+Emotion+Recognition;Building+AI+Agents+and+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=680&lines=AI+Engineer;Machine+Learning+%26+Deep+Learning;ASR+%7C+HTR+%7C+Speech+Emotion+Recognition;Building+AI+Agents+and+Automation)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/LynkMAD?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/LynkMAD)
 [![GitHub User's stars](https://img.shields.io/github/stars/LynkMAD?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/LynkMAD)
