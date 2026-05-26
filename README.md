@@ -49,6 +49,7 @@ I am an AI/ML learner and developer focusing on practical deep learning projects
 
 | Project | Description | Main Tech |
 |---|---|---|
+| **Private RAG Chatbot** | Developed a RAG-based chatbot for internal knowledge retrieval with document parsing, chunking, and semantic search | Claude API, RAG, Vector Search |
 | **Speech Emotion Classification** | Classifies speech emotion from audio using deep learning models | PyTorch, Librosa, CNN, BiLSTM |
 | **ASR Experiments** | Fine-tuning CTC-based speech recognition models | Wav2Vec2, WavLM, Hugging Face |
 | **Handwritten Text Recognition** | CRNN-style handwriting recognition system | TensorFlow, Keras, CTC |
@@ -90,7 +91,7 @@ I am an AI/ML learner and developer focusing on practical deep learning projects
 
 ```text
 🎓 Student        Water Resources University
-🤖 Focus          AI Engineering, Machine Learning, Deep Learning
+🤖 Focus          AI Engineering, Deep Learning, AI Agent
 🗣️ Research       ASR, Speech Emotion Recognition, HTR
 🧩 Building       AI Agents and automation workflows
 💬 Ask me about   Python, PyTorch, TensorFlow, Hugging Face, LangChain
