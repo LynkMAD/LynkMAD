@@ -66,27 +66,6 @@ I am an AI/ML learner and developer focusing on practical deep learning projects
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/LynkMAD/LynkMAD/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LynkMAD&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynkMAD&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
